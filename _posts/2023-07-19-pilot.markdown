@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Pilot"
+date:   2023-07-19 09:12:28 +0800
+categories: personal update
+image_topstone: /images/topstone.jpg
+image_wuling: /images/wuling.jpg
+---
+I have started my personal blog here in pursuit of keeping track of my workout habits.
+
+### A little about myself
+I purchased my first gravel bike- `Cannondale Topstone 2L` in Alkmaar, The Netherlands in August 2022.
+It was a beautiful place to do cycling, only that it rains a little more often than I like in winter.
+I frequented the sand dunes nearby Alkmaar in the beginning, including [Schoorlse duinen](https://www.staatsbosbeheer.nl/uit-in-de-natuur/locaties/schoorlse-duinen)
+and [Geestmerambacht](https://www.geestmerambacht.nl/).
+
+![]({{ page.image_topstone | relative_url }})
+
+
+In Feburary 2023, I decided to return to Taiwan after being away for alsmot 9 years.
+I started attending races and getting to know more about this country.
+
+Photo below is my most recent race at Wuling, a 3275-meter high mountain peak in Nantou County.
+
+![]({{ page.image_wuling | relative_url }})

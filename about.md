@@ -6,7 +6,7 @@ image: /images/profile_pic.jpg
 ---
 
 
-I am 27 year old and my hobby is to explore this land of Taiwan on a road bike.
+I am 27 and my hobby is to explore this land of Taiwan on a road bike.
 
 ![]({{ page.image | relative_url }})
 
